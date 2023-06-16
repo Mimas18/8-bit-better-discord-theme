@@ -21,14 +21,14 @@
 --serverlist-brightness: 0.8;
 --left-brightness: 0.8;
 --middle-brightness: 0.6;
---right-brightness: 0.6;
+--right-brightness: 0.4;
 --popout-modal-brightness: 0.75;
 --gradient-primary: 70,44,85;
 --gradient-secondary: 70,44,85;
 --gradient-direction: 320deg;
 --tint-colour: 70,44,85;
 --tint-brightness: 0;
---window-padding: 15px;
+--window-padding: 0px;
 --window-roundness: 0px;
 --scrollbar-colour: #31405a;
 --link-colour: #4aa1ff;
