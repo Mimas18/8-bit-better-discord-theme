@@ -7,7 +7,7 @@
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://fonts.googleapis.com/css2?family=Pangolin');
 :root {
---background-image: url('https://static.wikia.nocookie.net/pizzatower/images/f/fd/Bg_tower.png/revision/latest?cb=20200729202725&format=original');
+--background-image: url('https://i.imgur.com/0Ab3dRd.png');
 --background-image-blur: 0px;
 --background-image-size: contain;
 --background-image-position: center;
@@ -30,9 +30,9 @@
 --tint-brightness: 0;
 --window-padding: 15px;
 --window-roundness: 0px;
---scrollbar-colour: #B50000FF;
---link-colour: #B50000FF;
+--scrollbar-colour: #31405a;
+--link-colour: #4aa1ff;
 --show-gift-gif-buttons: block;
---font: 'Pangolin';
+--font: 'Arial';
 --update-notice-1: none;
 }
