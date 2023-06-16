@@ -1,13 +1,13 @@
 /**
-* @name 8-bit-christmas
+* @name pizza tower
 * @version 1.1
-* @description Merry christmas! Credits to: Gibbu
+* @description funny pizzatower Credits to: Gibbu
 * @author berdo#7740
 */
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://fonts.googleapis.com/css2?family=Pangolin');
 :root {
---background-image: url('https://i.imgur.com/7zWPkJU.gif');
+--background-image: url('https://static.wikia.nocookie.net/pizzatower/images/f/fd/Bg_tower.png/revision/latest?cb=20200729202725&format=original');
 --background-image-blur: 0px;
 --background-image-size: contain;
 --background-image-position: center;
@@ -15,7 +15,7 @@
 --popout-modal-blur: 100px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
---home-button-image: url('https://i.imgur.com/4DZ8Jd7.png');
+--home-button-image: url('https://i.imgur.com/wt3TjiG.png');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.8;
